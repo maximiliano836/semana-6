@@ -16,3 +16,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+p{
+
+font-size: medium;
+font-family: Verdana,sans-serif;
+font-style: italic;
+}
