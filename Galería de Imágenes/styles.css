@@ -4,6 +4,9 @@ body {
     background-image: url("https://img.freepik.com/vector-gratis/fondo-tecnologia-azul-geometrico-degradado_52683-78527.jpg");
     background-size:contain ;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 .image{
