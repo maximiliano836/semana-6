@@ -22,4 +22,13 @@ p{
 font-size: medium;
 font-family: Verdana,sans-serif;
 font-style: italic;
+text-align: center;
+}
+
+header {
+    font-size: large;
+    font-family: Verdana,sans-serif;
+    font-style:normal;
+    text-align: center;
+
 }
